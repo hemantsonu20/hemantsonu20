@@ -1,6 +1,9 @@
 #### Hi there 👋,
 Welcome to my profile.
 
+[![Stackoverflow reputation](https://img.shields.io/stackexchange/stackoverflow/r/3295987?color=grey&label=&logo=stackoverflow)](https://stackoverflow.com/users/3295987/pratapi-hemant-patel)
+[![Linkedin Profile](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemantsonu20/)
+
 <!--
 **hemantsonu20/hemantsonu20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

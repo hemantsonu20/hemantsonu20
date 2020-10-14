@@ -1,6 +1,6 @@
 <h1>
-	<p align="left">Hi 👋, I'm Hemant</p>
-	<p align="right">
+	<span align="left">Hi 👋, I'm Hemant</span>
+	<span float="right">
 		<a href="https://linkedin.com/in/hemantsonu20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hemantsonu20" height="30" width="40" /></a>
 		<a href="https://stackoverflow.com/users/3295987" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="3295987" height="30" width="40" /></a>
 		<a href="https://www.hackerrank.com/hemantsonu20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hemantsonu20" height="30" width="40" /></a>
@@ -8,7 +8,7 @@
 		<!-- <a href="https://twitter.com/hemantsonu20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hemantsonu20" height="30" width="40" /></a> -->
 	</p>
 </h1>
-<h3 align="center">A passionate Full Stack Java Developer</h3>
+<h3 align="left">A passionate Full Stack Java Developer</h3>
 <p align="left">
   <h3 align="left">Connect with me:</h3>
   <a href="https://linkedin.com/in/hemantsonu20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hemantsonu20" height="30" width="40" /></a>
@@ -16,7 +16,7 @@
   <a href="https://www.hackerrank.com/hemantsonu20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hemantsonu20" height="30" width="40" /></a>
   <!-- <a href="https://dev.to/hemantsonu20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="hemantsonu20" height="30" width="40" /></a> -->
   <!-- <a href="https://twitter.com/hemantsonu20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hemantsonu20" height="30" width="40" /></a> -->
-</p>
+</span>
 
 <table>
   <tbody>

@@ -50,7 +50,7 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hemantsonu20&show_icons=true&hide_rank=true&custom_title=Hemant%27s%20Github%20Stats" alt="hemantsonu20" /></p> -->
 
 <h3>My Github Stats</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemantsonu20&layout=compact&hide=antlr" alt="hemantsonu20" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemantsonu20&layout=compact&hide=antlr&theme=vue" alt="hemantsonu20" /></p>
 
 <!--
 [![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-grey?logo=stackoverflow)](https://stackoverflow.com/users/3295987/pratapi-hemant-patel)

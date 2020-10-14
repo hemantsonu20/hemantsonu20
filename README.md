@@ -10,14 +10,12 @@
 </p>
 
 <table>
-  <thead>
+  <tbody>
     <tr>
       <th>Languages</th>
       <th>Backend Development</th>
       <th>Frontend Development</th>
     </tr>
-  </thead>
-  <tbody>
     <tr>
       <td>
         <a href="https://www.java.com" target="_blank">

@@ -1,12 +1,12 @@
 <h1>
-  <span align="left">Hi 👋, I'm Hemant</span>
-  <span align="right">
+  <div align="center">Hi 👋, I'm Pratapi Hemant Patel</div>
+  <div align="center">
     <a href="https://linkedin.com/in/hemantsonu20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hemantsonu20" height="30" width="40" /></a>
     <a href="https://stackoverflow.com/users/3295987" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="3295987" height="30" width="40" /></a>
     <a href="https://www.hackerrank.com/hemantsonu20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hemantsonu20" height="30" width="40" /></a>
     <!-- <a href="https://dev.to/hemantsonu20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="hemantsonu20" height="30" width="40" /></a> -->
     <!-- <a href="https://twitter.com/hemantsonu20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hemantsonu20" height="30" width="40" /></a> -->
-  </span>
+  </div>
 </h1>
 <h3>My Skills</h3>
 <table>
@@ -48,6 +48,8 @@
 </table>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hemantsonu20&show_icons=true&hide_rank=true&custom_title=Hemant%27s%20Github%20Stats" alt="hemantsonu20" /></p> -->
+
+<h3>My Github Stats</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemantsonu20&layout=compact&hide=antlr" alt="hemantsonu20" /></p>
 
 <!--

@@ -31,7 +31,7 @@
 	<a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" /> </a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hemantsonu20&show_icons=true" alt="hemantsonu20" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemantsonu20&layout=compact" alt="hemantsonu20" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemantsonu20&layout=compact&hide=antlr" alt="hemantsonu20" /></p>
 
 <!--
 [![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-grey?logo=stackoverflow)](https://stackoverflow.com/users/3295987/pratapi-hemant-patel)

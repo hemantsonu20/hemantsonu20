@@ -47,7 +47,7 @@
   </tbody>
 </table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hemantsonu20&show_icons=true" alt="hemantsonu20" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hemantsonu20&show_icons=true&hide_rank=true&custom_title=Hemant%27s%20Github%20Stats" alt="hemantsonu20" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemantsonu20&layout=compact&hide=antlr" alt="hemantsonu20" /></p>
 
 <!--

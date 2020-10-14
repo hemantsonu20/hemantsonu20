@@ -10,14 +10,12 @@
 </p>
 
 <table>
-  <thead>
+  <tbody>
     <tr>
       <th>Languages</th>
       <th>Backend Development</th>
       <th>Frontend Development</th>
     </tr>
-  </thead>
-  <tbody>
     <tr>
       <td>
         <a href="https://www.java.com" target="_blank">
@@ -45,9 +43,6 @@
         <a href="https://angular.io" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40" /> </a>
         <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" /> </a>
       </td>
-    </tr>
-    <tr>
-      <td>A</td><td>A</td><td>A</td>
     </tr>
   </tbody>
 </table>

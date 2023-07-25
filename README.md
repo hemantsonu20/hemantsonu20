@@ -1,5 +1,5 @@
 <h1>
-  <div align="center">Hi 👋, I'm Pratapi Hemant Patel</div>
+  <div align="center">Hi 👋, I'm Hemant Patel</div>
   <div align="center">
     <a href="https://linkedin.com/in/hemantsonu20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hemantsonu20" height="30" width="40" /></a>
     <a href="https://stackoverflow.com/users/3295987" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="3295987" height="30" width="40" /></a>
